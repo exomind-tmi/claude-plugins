@@ -1,0 +1,20 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "exomind",
+  "description": "Exomind Tmi plugin catalog for Claude Code. Add this marketplace once — every plugin we publish becomes installable from it.",
+  "owner": {
+    "name": "Anton Hokkanen",
+    "url": "https://github.com/exomind-tmi"
+  },
+  "plugins": [
+    {
+      "name": "adhd-bro",
+      "description": "ADHD-friendly list handling: shared board file, full relevant list at every decision point, visible N-of-M progress, recommendation with a reason.",
+      "source": {
+        "type": "git",
+        "url": "https://github.com/exomind-tmi/adhd-bro.git"
+      },
+      "category": "productivity"
+    }
+  ]
+}
