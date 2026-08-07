@@ -11,8 +11,8 @@
       "name": "adhd-bro",
       "description": "ADHD-friendly list handling: shared board file, full relevant list at every decision point, visible N-of-M progress, recommendation with a reason.",
       "source": {
-        "type": "git",
-        "url": "https://github.com/exomind-tmi/adhd-bro.git"
+        "source": "github",
+        "repo": "exomind-tmi/adhd-bro"
       },
       "category": "productivity"
     }
