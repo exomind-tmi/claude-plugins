@@ -14,8 +14,6 @@ Then install any plugin from the catalog:
 claude plugin install adhd-bro@exomind
 ```
 
-New plugins land here as a single line in `marketplace.json` — no new marketplaces to add, ever. Refresh with `claude plugin marketplace update exomind`.
-
 ## Plugins
 
 | Plugin | What it does |
