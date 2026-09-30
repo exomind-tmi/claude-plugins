@@ -6,5 +6,16 @@
     "name": "Anton Hokkanen",
     "url": "https://github.com/exomind-tmi"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "whatsapp",
+      "description": "WhatsApp for Claude: read, search and send messages across several linked accounts.",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/exomind-tmi/whatsapp-mcp.git",
+        "path": "plugin"
+      },
+      "category": "communication"
+    }
+  ]
 }

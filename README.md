@@ -16,4 +16,6 @@ claude plugin install <plugin>@exomind
 
 ## Plugins
 
-No plugins published yet.
+| Plugin | What it does |
+|--------|--------------|
+| [whatsapp](https://github.com/exomind-tmi/whatsapp-mcp) | WhatsApp for Claude: read, search and send messages across several linked accounts |
