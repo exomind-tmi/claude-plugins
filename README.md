@@ -11,11 +11,9 @@ claude plugin marketplace add exomind-tmi/claude-plugins
 Then install any plugin from the catalog:
 
 ```
-claude plugin install adhd-bro@exomind
+claude plugin install <plugin>@exomind
 ```
 
 ## Plugins
 
-| Plugin | What it does |
-|--------|--------------|
-| [adhd-bro](https://github.com/exomind-tmi/adhd-bro) | ADHD-friendly list handling: shared board, full relevant list at every decision point, visible progress, default recommendations |
+No plugins published yet.
