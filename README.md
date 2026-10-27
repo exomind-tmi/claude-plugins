@@ -19,3 +19,4 @@ claude plugin install <plugin>@exomind
 | Plugin | What it does |
 |--------|--------------|
 | [whatsapp](https://github.com/exomind-tmi/whatsapp-mcp) | WhatsApp for Claude: read, search and send messages across several linked accounts |
+| [yougile](https://github.com/exomind-tmi/yougile-mcp) | YouGile for Claude: read boards and tasks, create and update tasks, comments and attachments across several accounts |
