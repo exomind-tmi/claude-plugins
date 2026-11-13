@@ -23,7 +23,8 @@
       "source": {
         "source": "git-subdir",
         "url": "https://github.com/exomind-tmi/yougile-mcp.git",
-        "path": "plugin"
+        "path": "plugin",
+        "sha": "f1719543b9b0cdc244229324ce1ea98b0c76cf07"
       },
       "category": "productivity"
     }
